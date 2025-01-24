@@ -23,5 +23,9 @@ This project demonstrates time series analysis on the "AirPassengers" dataset, w
    ```bash
    pip install pandas numpy matplotlib statsmodels hvplot
    ```
+## License
 
-## Good lucl ! 
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this project under the terms of the license.
+ 
+## Good luck ! 
